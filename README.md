@@ -4,5 +4,6 @@
 - 💞️ I’m looking to collaborate on Joint Scheduling of Resources for Edge Device Pooling
 - 📫 How to reach me: zqyu21@m.fudan.edu.cn
 
-[![Galen's GitHub stats](https://github-readme-stats.vercel.app/api?username=galenyu)](https://github.com/anuraghazra/github-readme-stats)
+
+![Galen's GitHub stats](https://github-readme-stats.vercel.app/api?username=galenyu&show_icons=true&theme=radical)
 
